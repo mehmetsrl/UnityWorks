@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfPhysicalCalibrationPoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PhysicalCalibrationPoint Name="cp1" Index="0" LinkedScene="BaseScene">
+    <Position>
+      <x>-11.01349</x>
+      <y>2.743132</y>
+      <z>-36.02806</z>
+    </Position>
+    <Rotation>
+      <x>-0</x>
+      <y>0</y>
+      <z>0</z>
+    </Rotation>
+  </PhysicalCalibrationPoint>
+</ArrayOfPhysicalCalibrationPoint>

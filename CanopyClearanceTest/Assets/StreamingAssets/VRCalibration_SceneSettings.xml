@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SceneSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cameraRig Name="Player">
+    <Position>
+      <x>-11.3175554</x>
+      <y>1.5</y>
+      <z>-37.6032562</z>
+    </Position>
+    <Rotation>
+      <x>-0</x>
+      <y>0</y>
+      <z>0</z>
+    </Rotation>
+  </cameraRig>
+  <virCP_ConfigFileName>Virtual.xml</virCP_ConfigFileName>
+  <phyCP_ConfigFileName>Physical.xml</phyCP_ConfigFileName>
+  <Scenes>
+    <Scene Name="Calibration" />
+    <Scene Name="MainScene" />
+    <Scene Name="VisualizeGazeMode" />
+    <Scene Name="PostProcess" />
+    <Scene Name="BaseScene" />
+  </Scenes>
+</SceneSettings>

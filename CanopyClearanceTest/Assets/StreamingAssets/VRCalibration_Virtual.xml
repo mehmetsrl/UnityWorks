@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfVirtualCalibrationPoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <VirtualCalibrationPoint Name="cp1_Virtual" Index="0">
+    <Position>
+      <x>-8.644638</x>
+      <y>3.40026188</y>
+      <z>-35.79753</z>
+    </Position>
+    <Rotation>
+      <x>-0</x>
+      <y>42.8322258</y>
+      <z>-0</z>
+    </Rotation>
+  </VirtualCalibrationPoint>
+</ArrayOfVirtualCalibrationPoint>

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 393c1c50e45aff84999b27e2401e4561
+  - enabled: 1
+    path: Assets/Scenes/EyeTrackerScene.unity
+    guid: 8db21dc21e8432b4089294850bceeb90
+  - enabled: 1
+    path: Assets/Scenes/EnvironmentScene.unity
+    guid: 35fb0bd215d36b14e857a40c32e150c9
+  - enabled: 1
+    path: Assets/Scenes/CanopyClearance.unity
+    guid: ac2bbd26711a9044bbc7647d9628c8c6
+  - enabled: 0
+    path: Assets/Scenes/VisualizeGazeMode.unity
+    guid: 25e3353dc3a2c024d9ce496df870c4ed
+  - enabled: 0
+    path: Assets/Scenes/PostProcess.unity
+    guid: 6e7ce51fe26dccc4eacfce1922a89312
+  m_configObjects: {}
